@@ -4,11 +4,11 @@
 
   <br></br>
 
-  - 🌱 I’m currently learning and working with Full Stack Web and Software Development.   
+  <h3>- 🌱 What I'm Learning: I’m currently learning and working with Full Stack Web and Software Development. </h3>   
 
-  - ⚡ Fun fact: I personally enjoy learning each day. 
+ <h3> - ⚡ Fun fact: I personally enjoy learning each day. </h3>  
 
-  - 💬 Ask: I enjoy sharing what I have learned!  
+ <h3> - 💬 Ask: I enjoy sharing what I have learned!  </h3>  
 
   <br/>  
 
