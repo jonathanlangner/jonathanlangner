@@ -10,7 +10,7 @@
 
  <h3> - 💬 Ask: I enjoy sharing what I have learned!  </h3>  
  
-  <h3> - ✅  Checkout:<a href="https://jonathanlangner.me/"> My Website</a></h3>  
+  <h3> - ✅  Checkout:  <a href="https://jonathanlangner.me/">My Website</a></h3>  
 
   <br/>  
 
