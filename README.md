@@ -42,9 +42,9 @@
   <div align="center">  
       <img title="HTML5" style="margin: 1rem" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5" height="35px" />
       <img title="CSS3" style="margin: 1rem" src="https://img.shields.io/badge/-CSS 3-1572B6?logo=CSS3&logoColor=white" alt="CSS3" height="35px" /> 
-      <img title="JavaScript" style="margin: 1rem" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript" height="40" />
+      <img title="JavaScript" style="margin: 1rem" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript" height="35px" />
       <img title="React" style="margin: 1rem" src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" alt="React" height="35px" />  
-      <img title="BootStrap"style="margin: 1rem" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=BootStrap&logoColor=white" alt="Bootstrap" height="40" />
+      <img title="BootStrap"style="margin: 1rem" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=BootStrap&logoColor=white" alt="Bootstrap" height="35px" />
       <img title="Linux" style="margin: 1rem" src="https://img.shields.io/badge/-Linux-sucesss?logo=Linux&logoColor=white" alt="Linux" height="35px" />
       <img title="Git" style="margin: 1rem" src="https://img.shields.io/badge/-Git-yellowgreen?logo=Git&logoColor=white" alt="Git" height="35px" />  
       <img title="Bash" style="margin: 1rem" src="https://img.shields.io/badge/-Bash-teal?logo=GNUBash&logoColor=white" alt="Bash" height="35px" /> 
