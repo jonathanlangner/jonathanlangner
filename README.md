@@ -1,27 +1,26 @@
+
+<div align="center"><summary align="center"> <h1> 👋🙂 Hi, there! Welcome to Jonathan Langner's Profile.</h1> </summary></div>
 <body>
-  <div align="center"> 
-    <h1 style="border-bottom:none;"> 👋🙂 Hi, there! Welcome to Jonathan Langner's Profile. </h1> 
-  </div>
    <hr></hr>
    <div align="center">
-    <h3 height="3rem"> ✉️ Connect With Me:</h3>
+    <h3> ✉️ Connect With Me:</h3>
    </div>
   <div align="center">
       <a href="https://github.com/jonathanlangner" target="_blank">
-      <img title="github" src=https://img.shields.io/badge/github-orange.svg?&style=flat-for-the-badge&logo=github&logoColor=white height="35px"                  alt=github style="margin-bottom: 0.5rem;" />
+      <img title="github" src=https://img.shields.io/badge/github-orange.svg?&style=flat-for-the-badge&logo=github&logoColor=white height="35px"                  alt=github style="margin-bottom: 0.5rem;" margin-top:1rem; />
       </a>
       <a href="https://www.facebook.com/jonathan.langner.12" target="_blank">
-      <img title="facebook" src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-for-the-badge&logo=facebook&logoColor=white height="35px"       alt=facebook style="margin-bottom: 0.5rem;" />
+      <img title="facebook" src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-for-the-badge&logo=facebook&logoColor=white height="35px"       alt=facebook style="margin-bottom: 0.5rem;" margin-top:1rem; />
       </a>
       <a href="https://linkedin.com/in/jonathan-langner" target="_blank">
-      <img title="linkedin" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-for-the-badge&logo=linkedin&logoColor=white height="35px"     alt=linkedin style="margin-bottom: 0.5rem;" />
+      <img title="linkedin" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-for-the-badge&logo=linkedin&logoColor=white height="35px"     alt=linkedin style="margin-bottom: 0.5rem;" margin-top:1rem;/>
       </a>
       <a href="https://codepen.com/jonlangner" target="_blank">
-    <img title="codepen" src=https://img.shields.io/badge/codepen-brightgreen.svg?&style=flat-for-the-badge&logo=codepen&logoColor=white height="35px"          alt=codepen style="margin-bottom: 0.5rem;" />
+    <img title="codepen" src=https://img.shields.io/badge/codepen-brightgreen.svg?&style=flat-for-the-badge&logo=codepen&logoColor=white height="35px"          alt=codepen style="margin-bottom: 0.5rem;" margin-top:1rem; />
     </a> 
       <a href="https://twitter.com/jonlangner1" target="_blank">
       <img title="Twitter" src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-for-the-badge&logo=twitter&logoColor=white height="35px"
-      alt=twitter style="margin-bottom: 0.5rem;" />
+      alt=twitter style="margin-bottom: 0.5rem; margin-top:1rem;" />
     </a>  
   </div>
 
