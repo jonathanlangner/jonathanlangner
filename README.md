@@ -1,6 +1,8 @@
 <body>
-  <div align="center"> <h1> 👋🙂 Hi, there! Welcome to Jonathan Langner's Profile. </h1> </div>  
-  <hr></hr>
+  <div align="center"> 
+    <h1> 👋🙂 Hi, there! Welcome to Jonathan Langner's Profile. </h1> 
+  </div>  
+   </hr>
    <div align="center"> <h2>Connect With Me</h2> </div> 
   <div align="center">
   <a href="https://github.com/jonathanlangner" target="_blank">
