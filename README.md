@@ -2,8 +2,10 @@
   <div align="center"> 
     <h1> 👋🙂 Hi, there! Welcome to Jonathan Langner's Profile. </h1> 
   </div>  
-   </hr>
-   <div align="center"> <h2>Connect With Me</h2> </div> 
+   <hr></hr>
+   <div align="center"> 
+      <h2>Connect With Me</h2> 
+   </div> 
   <div align="center">
   <a href="https://github.com/jonathanlangner" target="_blank">
   <img title="github" src=https://img.shields.io/badge/github-orange.svg?&style=flat-for-the-badge&logo=github&logoColor=white height="40px" alt=github style="margin-bottom: 0.5rem;" />
