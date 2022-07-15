@@ -55,7 +55,9 @@
       <img title="Sass" style="margin: 1rem" src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" alt="Sass" height="35px" />
       <img title="Visual Studio Code" style="margin: 10px" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white" alt="Visual Studio Code" height="35px" />
       <img title="Firefox" style="margin: 1rem" src="https://img.shields.io/badge/-Firefox-orange?logo=Firefox&logoColor=black" alt="Firefox" height="35px" />
-      <img title="Google Chrome"style="margin: 10px" src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome" height="35px" />            
+      <img title="Google Chrome"style="margin: 10px" src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome" height="35px" />
+      <img title="GitKraken"style="margin: 10px" src="https://img.shields.io/badge/-GitKraken-179287?logo=GitKraken&logoColor=white" alt="GitKraken" height="35px" />   
+      <img title="GitLab"style="margin: 10px" src="https://img.shields.io/badge/-GitLab-4285F4?logo=GitLab&logoColor=white" alt="GitLab" height="35px" />               
   </div>
   <hr></hr>
 <div align="center">
