@@ -54,7 +54,7 @@
       <img title="Node.js" style="margin: 1rem" src="https://img.shields.io/badge/-Node.js-green?logo=Node.js&logoColor=black" alt="Node.js" height="35px" />  
       <img title="Python" style="margin: 1rem" src="https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white" alt="Python" height="35px" /> 
       <img title="C++" style="margin: 1rem" src="https://img.shields.io/badge/-C++-purple?logo=C%2b%2b&logoColor=white" alt="C++" height="35px" />  
-      <img title="Java" style="margin: 1rem" src="https://img.shields.io/badge/-Java-orange?logo=OpenJDK&logoColor=black" alt="Java" height="35px" />
+      <img title="C#" style="margin: 1rem" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" height="35px" />
       <img title="Sass" style="margin: 1rem" src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" alt="Sass" height="35px" />
       <img title="Visual Studio Code" style="margin: 10px" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white" alt="Visual Studio Code" height="35px" />
       <img title="Firefox" style="margin: 1rem" src="https://img.shields.io/badge/-Firefox-orange?logo=Firefox&logoColor=black" alt="Firefox" height="35px" />
