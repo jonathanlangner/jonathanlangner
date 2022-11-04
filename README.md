@@ -9,7 +9,7 @@
    <hr></hr>
    <div align="center">
         <h3> <a title="https://jonathanlangner.me/" href="https://jonathanlangner.me/">
-          <img title="My Portfolio" src="https://img.shields.io/badge/🌳 My Portfolio 🌳-%23ffaa.svg?&style=flat-for-the-badge&logo=&logoColor=white" height="50px"
+          <img title="My Portfolio" src="https://img.shields.io/badge/ My Portfolio -%23ffaa.svg?&style=flat-for-the-badge&logo=&logoColor=white" height="50px"
       alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem;" />
         </a></h3>  
     </div>
