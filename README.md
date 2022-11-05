@@ -2,14 +2,14 @@
   <div align="center"><summary align="center"> <h1> 👋🙂 Hi there, I am Jonathan Langner!</h1> </summary></div>
  <hr></hr>
      <div align="center">
-      <h4>I am a Developer • Programmer<br>
-      I enjoy optimism, design, weather, programming, actively learning, and sharing what I can with others.  </h4>
+      <h3>I am a Developer • Programmer<br>
+      I enjoy optimism, design, weather, programming, actively learning, and sharing what I can with others.  </h3>
 </div>
 
    <hr></hr>
    <div align="center">
         <h3> <a title="https://jonathanlangner.me/" href="https://jonathanlangner.me/">
-          <img title="My Portfolio" src="https://img.shields.io/badge/🌳 My Portfolio 🌳-%23ffaa.svg?&style=flat-for-the-badge&logo=&logoColor=white" height="50px"
+          <img title="My Portfolio" src="https://img.shields.io/badge/ My Portfolio -%23ffaa.svg?&style=flat-for-the-badge&logo=&logoColor=white" height="50px"
       alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem;" />
         </a></h3>  
     </div>
@@ -24,17 +24,17 @@
    <div align="center">
    <h3>Connect With Me:</h3>
       <a href="https://linktr.ee/jonathanlangner" target="_blank">
-      <img title="Link Tree" src="https://img.shields.io/badge/linktr.ee-black.svg?&style=flat-for-the-badge&logo=linktree&logoColor=white" height="35px"                  alt="Link Tree" style="margin-bottom: 0.5rem;" margin-top:1rem; />
+      <img title="linktree" src="https://img.shields.io/badge/linktr.ee-black.svg?&style=flat-for-the-badge&logo=linktree&logoColor=white" height="35px"       alt="linktree" style="margin-bottom: 0.5rem;" margin-top:1rem; />
       </a>
       <a href="https://leetcode.com/jonlangner/" target="_blank">
-      <img title="leetcode" src="https://img.shields.io/badge/leetcode-01361E.svg?&style=flat-for-the-badge&logo=leetcode" height="35px" alt="leetcode" 
+      <img title="leetcode" src="https://img.shields.io/badge/leetcode-000000.svg?&style=flat-for-the-badge&logo=leetcode" height="35px" alt="leetcode" 
       style="margin-bottom: 0.5rem;" margin-top:1rem; />
       </a>
       <a href="https://linkedin.com/in/jonathan-langner" target="_blank">
       <img title="linkedin" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-for-the-badge&logo=linkedin&logoColor=white" height="35px"     alt=linkedin style="margin-bottom: 0.5rem;" margin-top:1rem;/>
       </a>
       <a href="https://twitter.com/jonlangner1" target="_blank">
-      <img title="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-for-the-badge&logo=twitter&logoColor=white" height="35px"
+      <img title="twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-for-the-badge&logo=twitter&logoColor=white" height="35px"
       alt="twitter" style="margin-bottom: 0.5rem; margin-top:1rem;" />
     </a>  
   </div>  
