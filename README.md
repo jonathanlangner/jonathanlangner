@@ -1,6 +1,6 @@
 <body>
      <div align="center"><img title="Banner" src="banner.png"
-      alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem; height: 20rem; width: 50%;" /></div>
+      alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem; height: 20rem; width: 1000%;" /></div>
   <div align="center"> <h1> 👋🙂 Hi there, I am Jonathan Langner!</h1>
   </div>
  <hr></hr>
