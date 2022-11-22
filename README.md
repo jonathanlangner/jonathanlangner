@@ -11,12 +11,11 @@
 
    <hr></hr>
    <div align="center">
-        <a title="https://jonathanlangner.me" href="https://jonathanlangner.me">
-        <h3 title = "https://jonathanlangner.me">
-        My Portfolio Website</h3>
+      <a title="https://jonathanlangner.me" href="https://jonathanlangner.me">
+        My Portfolio Website
         <img title="https://jonathanlangner.me" src="portfolio.png"
       alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem; height: 40rem; width: 40rem;" />
-        </a> 
+      </a> 
     </div>
  
 
