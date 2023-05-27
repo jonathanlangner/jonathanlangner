@@ -62,17 +62,12 @@
       <img title="GitHub"style="margin: 1rem" src="https://img.shields.io/badge/-GitHub-4285F4?logo=GitHub&logoColor=white" alt="GitHub" height="35px" />
       <img title="Visual Studio Code" style="margin: 10px" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white" alt="Visual Studio Code" height="35px" />
       <img title="Firefox" style="margin: 1rem" src="https://img.shields.io/badge/-Firefox-orange?logo=Firefox&logoColor=black" alt="Firefox" height="35px" />
-      <img title="Google Chrome"style="margin: 1rem" src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome" height="35px" />               
+      <img title="Google Chrome"style="margin: 1rem" src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome" height="35px" /> 
+      <img title="Figma" style="margin: 1rem" src="https://img.shields.io/badge/-Figma-000000?logo=Figma&amp;logoColor=white" alt="Figma" height="35px">
+      <img  title="VirtualBox" style="margin: 1rem" src="https://img.shields.io/badge/-VirtualBox-gray?logo=VirtualBox&amp;logoColor=white" alt="Virtual Box" height="35px">              
   </div>
   <hr></hr>
-<div align="center">
-            <a href="https://www.buymeacoffee.com/jonlangner" target="_blank" style="display: inline-block;">
-                <img title="https://www.buymeacoffee.com/jonlangner"
-                    src="https://img.shields.io/badge/-Donate: Buy Me a Coffee-0540B0?logo=BuyMeACoffee&logoColor=white&style=flat" 
-                    height="35px"
-                />
-            </a>
-  </div>
+
   <br/>  
   
 </body>
