@@ -1,18 +1,19 @@
 <body>
      <div align="center"><img title="Banner" src="banner.png"
       alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem; height: 20rem; width: 1000%;" /></div>
-  <div align="center"> <h1> 👋🙂 Hi there, I am Jonathan Langner!</h1>
+  <div align="center"> <h1> Jonathan Langner</h1>
   </div>
  <hr></hr>
      <div align="center">
-      <h3>I am a Developer • Programmer<br>
-      I enjoy optimism, design, weather, programming, actively learning, and sharing what I can with others.  </h3>
+      <h3>Designer ~ Web Developer<br>
+      I use my abilities to construct excellent websites, products, and applications which enrich people's lives.
+      </h3>
 </div>
 
    <hr></hr>
    <div align="center">
+    <h3>My Portfolio Website:</h3>
       <a title="https://jonathanlangner.me" href="https://jonathanlangner.me">
-        My Portfolio Website
         <img title="https://jonathanlangner.me" src="portfolio.png"
       alt="My Portfolio" style="margin-bottom: 0.5rem; margin-top:1rem; height: 40rem; width: 40rem;" />
       </a> 
