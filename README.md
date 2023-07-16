@@ -6,7 +6,8 @@
  <hr></hr>
      <div align="center">
       <h3>Designer ~ Web Developer<br>
-      I use my abilities to construct excellent websites, products, and applications which enrich people's lives.
+        Dynamic and keen web design professional offering crafted skills in website development.
+        Enjoys designing and scaling creative opportunities to enrich communities and individuals through hands-on interactive design.
       </h3>
 </div>
 
