@@ -23,8 +23,8 @@
 
    <div align="center">
    <h3>Connect With Me:</h3>
-      <a href="https://linktr.ee/jonathanlangner" target="_blank">
-      <img title="linktree" src="https://img.shields.io/badge/linktr.ee-black.svg?&style=flat-for-the-badge&logo=linktree&logoColor=white" height="35px"       alt="linktree" style="margin-bottom: 0.5rem;" margin-top:1rem; />
+       <a href="https://bento.me/jonathanlangner" target="_blank">
+      <img title="linkedin" src="https://img.shields.io/badge/bento.me/jonathanlangner-007700.svg?&style=flat-for-the-badge&logo=&logoColor=white" height="35px"     alt=linkedin style="margin-bottom: 0.5rem;" margin-top:1rem;/>
       </a>
        <a href="https://linkedin.com/in/jonathan-langner" target="_blank">
       <img title="linkedin" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-for-the-badge&logo=linkedin&logoColor=white" height="35px"     alt=linkedin style="margin-bottom: 0.5rem;" margin-top:1rem;/>
