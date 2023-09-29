@@ -50,21 +50,12 @@
       <img title="Sass" style="margin: 1rem" src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" alt="Sass" height="35px" />
       <img title="Linux" style="margin: 1rem" src="https://img.shields.io/badge/-Linux-sucesss?logo=Linux&logoColor=white" alt="Linux" height="35px" />
       <img title="Bash" style="margin: 1rem" src="https://img.shields.io/badge/-Bash-teal?logo=GNUBash&logoColor=white" alt="Bash" height="35px" />  
-      <img title="C++" style="margin: 1rem" src="https://img.shields.io/badge/-C++-purple?logo=C%2b%2b&logoColor=white" alt="C++" height="35px" />  
-      <img title="C#" style="margin: 1rem" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" height="35px" />
        <img title="Git" style="margin: 1rem" src="https://img.shields.io/badge/-Git-yellowgreen?logo=Git&logoColor=white" alt="Git" height="35px" />  
       <img title="GitKraken"style="margin: 1rem" src="https://img.shields.io/badge/-GitKraken-179287?logo=GitKraken&logoColor=white" alt="GitKraken" height="35px" />   
       <img title="GitHub"style="margin: 1rem" src="https://img.shields.io/badge/-GitHub-4285F4?logo=GitHub&logoColor=white" alt="GitHub" height="35px" />
-       <img  title="Java" style="margin: 1rem" src="https://img.shields.io/badge/-Java-ff5500?logo=OpenJDK&logoColor=white" alt="Java" height="35px">        
       <img title="Visual Studio Code" style="margin: 10px" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white" alt="Visual Studio Code" height="35px" />
-      <img title="Firefox" style="margin: 1rem" src="https://img.shields.io/badge/-Firefox-orange?logo=Firefox&logoColor=black" alt="Firefox" height="35px" />
-      <img title="Google Chrome"style="margin: 1rem" src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome" height="35px" /> 
       <img title="Figma" style="margin: 1rem" src="https://img.shields.io/badge/-Figma-000000?logo=Figma&amp;logoColor=white" alt="Figma" height="35px">
-      <img  title="VirtualBox" style="margin: 1rem" src="https://img.shields.io/badge/-VirtualBox-gray?logo=VirtualBox&amp;logoColor=white" alt="Virtual Box" height="35px">
-       <img  title="Google Workspace" style="margin: 1rem" src="https://img.shields.io/badge/-Google Workspace-4285F4?logo=Google&logoColor=white" alt="Google Workspace" height="35px"> 
-       <img  title="Libre Office" style="margin: 1rem" src="https://img.shields.io/badge/-LibreOffice-005500?logo=LibreOffice&logoColor=white" alt="Libre Office" height="35px">
-        <img  title="Krita" style="margin: 1rem" src="https://img.shields.io/badge/-Krita-7952B3?logo=Krita&logoColor=white" alt="Krita" height="35px"> 
-        <img  title="Brave" style="margin: 1rem" src="https://img.shields.io/badge/-Brave-orange?logo=Brave&logoColor=black" alt="Brave" height="35px">                                  
+      <img  title="VirtualBox" style="margin: 1rem" src="https://img.shields.io/badge/-VirtualBox-gray?logo=VirtualBox&amp;logoColor=white" alt="Virtual Box" height="35px">                              
   </div>
   <hr></hr>
 
