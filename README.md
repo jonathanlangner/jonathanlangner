@@ -33,10 +33,6 @@
       <img title="leetcode" src="https://img.shields.io/badge/leetcode-000000.svg?&style=flat-for-the-badge&logo=leetcode" height="35px" alt="leetcode" 
       style="margin-bottom: 0.5rem;" margin-top:1rem; />
       </a>
-      <a href="https://twitter.com/jonlangner1" target="_blank">
-      <img title="twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-for-the-badge&logo=twitter&logoColor=white" height="35px"
-      alt="twitter" style="margin-bottom: 0.5rem; margin-top:1rem;" />
-    </a>  
   </div>  
   <hr></hr>
   <div align="center">  
